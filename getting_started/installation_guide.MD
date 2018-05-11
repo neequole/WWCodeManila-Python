@@ -1,4 +1,5 @@
 ## Getting started
+
 We need Python first! For our study group, we will be using `Python 3`, preferably >= `Python 3.6` :)
 
 To check if Python is already installed, open your terminal or command prompt.
@@ -32,7 +33,7 @@ For a detailed installation process, please [use this tutorial](https://tutorial
 
 Done! You can now start coding in Python!
 
-### Put your thinking cap on!
+## Put your thinking cap on!
 
 - What are my challenges upon installing Python? How did I solved them?
 - [Do I need Python 2 or 3?](https://wiki.python.org/moin/Python2orPython3)

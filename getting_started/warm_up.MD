@@ -8,16 +8,37 @@ Now we will run a very basic Python program that will print `Hello WomenWhoCode!
 
 ### Copy sample file
 
-Please copy/download the [first_python_code.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/samples/first_python_code.py) file under `samples` folder.
+Please copy the sample file below and save as `first_python_code.py`.
 
+```python
+# Basic example on how to print
+# text using different approach in
+# Python.
+
+organization = 'WomenWhoCode!'
+
+# You can print it right away!
+print('Hello WomanWhoCode!')
+
+# Example of string concatenation
+print('Hello ' + organization)
+
+# Using .format() function to attach a string
+print('Hello {}'.format(organization))
+# print(f'Hello {organization}')  # Can use this format with Python3.6
+
+# First, replace the following text with your name
+your_name = '<place your name here>'
+
+# Then, uncomment the next line by removing the "#" sign
+#print('{} loves Python!'.format(your_name))
 ```
-Git project -> samples -> first_python_code.py
-```
 
 
-### Running your first Python program
+### Run your first Python program
 
 Let's try to run some Python code!
+
 
 #### Using a terminal
 
@@ -52,6 +73,7 @@ Hello WomenWhoCode!
 Hello WomanWhoCode!
 Hello WomenWhoCode!
 ```
+
 
 #### Using an editor
 
