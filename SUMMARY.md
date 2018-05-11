@@ -6,6 +6,7 @@
 
 * [Installation](getting_started/installation_guide.MD)
 * [Run a basic Python program](getting_started/warm_up.MD)
+* [Sharing your work](getting_started/exercise_upload_step.md)
 
 ### Basic Concepts
 

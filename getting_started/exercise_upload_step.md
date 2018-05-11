@@ -2,7 +2,6 @@
 
 1. [Create a Github account](https://github.com/join) if none yet, or sign in. 
 2. Create `wwcode-python` repository if none yet. You will upload your works there.
-  *  If you are a GIT user and cloned your `wwcode-repository`, you may skip below and just push your work.
   *  In the toolbar(upper right of your screen), select `create new` (plus sign) -> `New Repository`
   ![create button](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/assets/images/new_repository.png)
   *  Name your repository `wwcode-python`. Select `Public` and `Initalize this repository with a README`
