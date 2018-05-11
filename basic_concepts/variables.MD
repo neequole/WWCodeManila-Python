@@ -152,18 +152,9 @@ customer their total bill and payment amount and tell them their change
 ```
 
 Just some notes:
-* Under exercises01, you can use and copy [exercise01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/exercises01/exercises01.py) as template.
-
-```shell
-Git project -> exercises -> exercises01 -> exercises01.py
-```
-
+* You can use and copy [exercise01.py](basic_concepts/exercises/exercises01/exercises01.py) as template.
 * Please rename the file as `<first name initial><middle name initial><last name>_execise01.py`. For example, John M. Doe will name his file as `jmdoe_exercise01.py`.
 * Share your work and contribute to the community! Complete how-to share your work instruction [here](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercise_upload_step.md).
-  * Create a Github account if none yet and create a repository for wwcode-python. You will upload your works there.
-  * Please upload or push the file in your GIT repository.
-  * Open an issue in our repository named `<Your name> - <topic>`. For example, `John Doe - Loops`.
-  * Share the link of your work on the issue.
 * Present your work in front (#ApplaudHer)! You can also share your study group experience in social media and tag us!
 * Enjoy!
 
