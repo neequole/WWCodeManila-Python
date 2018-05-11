@@ -127,7 +127,7 @@ Thank your for choosing Aling Nena’s Sari-sari store”
 ```
 
 Just some notes:
-* Please use this [template](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/exercises02/exercises02.py) to be able to print the reward.
+* Please use this [template](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/basic_concepts/exercises/exercises02/exercises02.py) to be able to print the reward.
 
 ```shell
 Gitlab project -> exercises -> exercises02 -> exercises02.py

@@ -81,7 +81,7 @@ Example:
 ```
 
 Just some notes:
-* Please use and copy [loops01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/loops/loops01.py) as your template.
+* Please use and copy [loops01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/basic_concepts/exercises/loops/loops01.py) as your template.
 
 ```shell
 Git project -> exercises -> loops01 -> loops01.py

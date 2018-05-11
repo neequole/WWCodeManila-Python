@@ -89,7 +89,7 @@ Help Mang Toto to convert `USD, JPY, SGD` to `PHP` by:
 ```
 
 Just some notes:
-* Please use and copy [functions01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/functions/functions01.py) as template. The ForEX list are there.
+* Please use and copy [functions01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/basic_concepts/exercises/functions/functions01.py) as template. The ForEX list are there.
 
 ```
 Gitlab project -> exercises -> functions

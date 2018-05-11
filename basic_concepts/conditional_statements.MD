@@ -82,7 +82,7 @@ on the house's ref or none. If the customer buys a soft drink brand that is:
     
 
 Just some notes:
-* Please see use and copy this [template](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/conditional_statements/conditional01.py):
+* Please see use and copy this [template](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/basic_concepts/exercises/conditional_statements/conditional01.py):
 
 ```
 Gitlab project -> exercises -> conditional_statements

@@ -160,7 +160,7 @@ spam 115.25 * 1 = 115.25
 ```
 
 Just some notes:
-* Please use and copy [dictionaries01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/exercises/dictionaries/dictionaries01.py) as template.
+* Please use and copy [dictionaries01.py](https://github.com/wwcodemanila/WWCodeManila-Python/blob/master/basic_concepts/exercises/dictionaries/dictionaries01.py) as template.
 
 ```
 Gitlab project -> exercises -> dictionaries
