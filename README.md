@@ -1,4 +1,5 @@
 # Welcome to the world of Python!
+
 For beginners, we will learn the basic concepts of
 programming using Python. This can be your jump off towards web development,
 scripting, data processing and more!
@@ -7,7 +8,9 @@ For immediate/advanced Pythonistas, let's spread our knowledge of Python and lea
 
 If you have questions, please feel free to ask and participate on our [Gitter group](https://gitter.im/WWCodeManila/Python).
 
+
 ## Study Group Setup
+
 * Resources such as notes, exercises and samples will be uploaded here.
 * Our 1.5 hours will be divided randomly into:
     - Introduction/Getting to know first-timers
@@ -16,6 +19,7 @@ If you have questions, please feel free to ask and participate on our [Gitter gr
     - Self-paced or mini study session
     - Today I Learned (TIL)
     - Announcement
+
 
 ## Our Milestones
 ### Getting started
