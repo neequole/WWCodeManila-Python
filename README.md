@@ -1,4 +1,5 @@
 # Welcome to the world of Python!
+[![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
 For beginners, we will learn the basic concepts of
 programming using Python. This can be your jump off towards web development,
