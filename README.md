@@ -1,5 +1,5 @@
 # Welcome to the world of Python!
-[![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/WWCodeManila/Python)
 
 For beginners, we will learn the basic concepts of
 programming using Python. This can be your jump off towards web development,
@@ -7,7 +7,7 @@ scripting, data processing and more!
 
 For immediate/advanced Pythonistas, let's spread our knowledge of Python and learn more!
 
-If you have questions, please feel free to ask and participate on our [Gitter group](https://gitter.im/WWCodeManila/Python).
+If you have questions, please feel free to ask and participate on our [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/WWCodeManila/Python).
 
 
 ## Study Group Setup
